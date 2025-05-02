@@ -10,6 +10,7 @@ from flappy_UAV_ga_after_train import Linear_Net
 
 import os
 import sys
+# 1
 
 # 获取资源文件的绝对路径
 def resource_path(relative_path):
